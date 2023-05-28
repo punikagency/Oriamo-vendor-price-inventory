@@ -77,7 +77,7 @@ To begin development on the Oriamo Phone Price Inventory application, follow the
 
    ```bash
    
-   git clone <repository-url>
+      git clone <repository-url>
    
    ```
 
