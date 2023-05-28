@@ -63,3 +63,79 @@ The solution will be developed using the following technologies and frameworks:
 By leveraging this tech stack, we aim to deliver a robust, user-friendly, and scalable web application that addresses Oriamo's price management challenges and enhances their vendor network's efficiency and profitability.
 [Read Success Story](https://docs.google.com/document/d/1P4m5nX4HStwACXpWS50gLWxDJMWQUDsnHwZLMwYwUAI/edit?usp=sharing) 
 
+## Getting Started with Development
+
+To begin development on the Oriamo Phone Price Inventory application, follow these steps:
+
+### Prerequisites
+
+- Node.js and Yarn: Ensure that you have Node.js and Yarn installed on your development machine. You can download them from their official websites and follow the installation instructions for your operating system.
+
+### Installation
+
+1\. Clone the repository:
+
+   ```bash
+
+   git clone <repository-url>
+
+   ```
+
+2\. Navigate to the project directory:
+
+   ```bash
+
+   cd oriamo-phone-price-inventory
+
+   ```
+
+3\. Install the project dependencies using Yarn:
+
+   ```bash
+
+   yarn install
+
+   ```
+
+### Configuration
+
+1\. Rename the `.env.example` file to `.env` and update the configuration values based on your environment.
+
+### Development Server
+
+To run the application locally and start the development server, use the following command:
+
+```bash
+
+yarn start
+
+```
+
+This command will start the development server and provide you with a local URL where you can access the application in your web browser.
+
+### Building the Application
+
+To build the application for production, use the following command:
+
+```bash
+
+yarn build
+
+```
+
+This command will generate the optimized and minified production-ready files in the `build` directory.
+
+### Deployment
+
+1\. Set up a hosting platform (e.g., Firebase Hosting) and configure it to host the application.
+
+2\. Deploy the built application files to the hosting platform using the provided deployment instructions.
+
+### Customization and Further Development
+
+The application can be customized further to meet specific business requirements or expanded with additional features. Explore the project structure, review the codebase, and make the necessary modifications to suit your needs.
+
+## Conclusion
+
+By following these steps, you can set up the development environment, start the development server, and deploy the Oriamo Phone Price Inventory application. Take advantage of the provided customization and expansion opportunities to enhance the application based on your enterprise's unique requirements. Happy coding with Yarn!
+
