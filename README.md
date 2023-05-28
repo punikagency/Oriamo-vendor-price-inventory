@@ -76,26 +76,20 @@ To begin development on the Oriamo Phone Price Inventory application, follow the
 1\. Clone the repository:
 
    ```bash
-
-   git clone <repository-url>
-
-   ```
+   git clone <repository-url>
+   ```
 
 2\. Navigate to the project directory:
 
    ```bash
-
-   cd oriamo-phone-price-inventory
-
+   cd oriamo-phone-price-inventory
    ```
 
 3\. Install the project dependencies using Yarn:
 
    ```bash
-
-   yarn install
-
-   ```
+   yarn install
+   ```
 
 ### Configuration
 
@@ -106,9 +100,7 @@ To begin development on the Oriamo Phone Price Inventory application, follow the
 To run the application locally and start the development server, use the following command:
 
 ```bash
-
 yarn start
-
 ```
 
 This command will start the development server and provide you with a local URL where you can access the application in your web browser.
@@ -118,9 +110,7 @@ This command will start the development server and provide you with a local URL 
 To build the application for production, use the following command:
 
 ```bash
-
 yarn build
-
 ```
 
 This command will generate the optimized and minified production-ready files in the `build` directory.
