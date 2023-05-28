@@ -83,17 +83,17 @@ To begin development on the Oriamo Phone Price Inventory application, follow the
 
 2\. Navigate to the project directory:
 
-   ```bash
+ ```bash
    
-   cd oriamo-phone-price-inventory
+cd oriamo-phone-price-inventory
    
-   ```
+```
 
 3\. Install the project dependencies using Yarn:
 
-   ```bash
-   yarn install
-   ```
+```bash
+yarn install
+```
 
 ### Configuration
 
