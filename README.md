@@ -61,4 +61,5 @@ The solution will be developed using the following technologies and frameworks:
 - **Continuous Integration and Deployment (CI/CD):** Setting up CI/CD pipelines to automate build, testing, and deployment processes.
 
 By leveraging this tech stack, we aim to deliver a robust, user-friendly, and scalable web application that addresses Oriamo's price management challenges and enhances their vendor network's efficiency and profitability.
-(https://docs.google.com/document/d/1P4m5nX4HStwACXpWS50gLWxDJMWQUDsnHwZLMwYwUAI/edit?usp=sharing)[Read sucess story]
+[Read Success Story](https://docs.google.com/document/d/1P4m5nX4HStwACXpWS50gLWxDJMWQUDsnHwZLMwYwUAI/edit?usp=sharing) 
+
