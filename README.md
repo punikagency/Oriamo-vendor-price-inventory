@@ -75,18 +75,14 @@ To begin development on the Oriamo Phone Price Inventory application, follow the
 
 1\. Clone the repository:
 
-   ```bash
-   
-      git clone <repository-url>
-   
-   ```
+```bash
+git clone <repository-url>
+```
 
 2\. Navigate to the project directory:
 
- ```bash
-   
+```bash
 cd oriamo-phone-price-inventory
-   
 ```
 
 3\. Install the project dependencies using Yarn:
